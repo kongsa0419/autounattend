@@ -1,0 +1,1 @@
+# Scott's self-testing for PC Setup automating
